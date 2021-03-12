@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there!
+
+I'm Tom! I'll soon be an astrophysics PhD student at the University of Washington and did my undergraduate at Harvard University. I love learning about any sort of science and I'm enthusiastic to share all of the code I use in my research on GitHub.
+
+I am working with Professor Selma de Mink currently on projects to do with massive stars and gravitational waves. I'm particularly focussed on LISA right now and am trying to predict detection rate of galactic DCOs and black holes in AGN migration traps.
+
+I've recently released a python package called [LEGWORK](https://www.github.com/KatieBreivik/LEGWORK) with [Katie Breivik](https://www.github.com/KatieBreivik) to make everyone's life easier when working with stellar mass binaries in LISA and doing the legwork for you. I also use and enjoy helping with the development of [COMPAS](https://www.github.com/TeamCOMPAS/COMPAS)
 
 <!--
 **TomWagg/tomwagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
