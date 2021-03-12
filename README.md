@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm Tom! I'll soon be an astrophysics PhD student at the University of Washington and did my undergraduate at Harvard University. I love learning about any sort of science and I'm enthusiastic to share all of the code I use in my research on GitHub.
+I'm Tom, you can find out more about me on [my website](https://tomwagg.com)! I'll soon be an astrophysics PhD student at the University of Washington and did my undergraduate at Harvard University. I love learning about any sort of science and I'm enthusiastic to share all of the code I use in my research on GitHub.
 
 I am working with Professor Selma de Mink currently on projects to do with massive stars and gravitational waves. I'm particularly focussed on LISA right now and am trying to predict detection rate of galactic DCOs and black holes in AGN migration traps.
 
