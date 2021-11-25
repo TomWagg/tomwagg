@@ -2,9 +2,9 @@
 
 I'm Tom, you can find out more about me on [my website](https://tomwagg.com)! I'm an astrophysics PhD student at the University of Washington and did my undergraduate at Harvard University. I love learning about any sort of science and I'm enthusiastic to share all of the code I use in my research on GitHub.
 
-I have most recently been working with Professor Selma de Mink on projects to do with massive stars and gravitational waves. In particular, I focussed on LISA and trying to predict the LISA detectable Galactic population of double compact objects. You can find out more in my [repository for this project](https://github.com/TomWagg/detecting-DCOs-in-LISA)
+I have most recently been working with Professor Selma de Mink on projects to do with massive starsand gravitational waves. In particular, I focussed on LISA and trying to predict the LISA detectable Galactic population of double compact objects. You can find out more in my [repository for this project](https://github.com/TomWagg/detecting-DCOs-in-LISA)
 
-I've recently released a python package called [LEGWORK](https://www.github.com/TeamLEGWORK/LEGWORK) with [Katie Breivik](https://www.github.com/KatieBreivik) to make everyone's life easier when working with stellar-origin binaries in LISA and doing the legwork for you. I also use and enjoy helping with the development of [COMPAS](https://www.github.com/TeamCOMPAS/COMPAS)
+I've recently released a python package called [LEGWORK](https://www.github.com/TeamLEGWORK/LEGWORK) with [Katie Breivik](https://www.github.com/KatieBreivik) to make everyone's life easier when working with stellar-origin binaries in LISA and doing the legwork for you. Check out the paper on the ArXiv [here](https://arxiv.org/abs/2111.08717). I also use and enjoy helping with the development of the rapid binary population synthesis code [COMPAS](https://www.github.com/TeamCOMPAS/COMPAS).
 
 <!--
 **TomWagg/tomwagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
