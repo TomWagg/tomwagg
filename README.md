@@ -2,7 +2,7 @@
 
 I'm Tom Wagg, an astrophysics PhD student at the University of Washington. I'm still not sure what my favourite facet of astrophysics is but I _do_ know that I'm enthusiastic to share all of the code I use in my research on GitHub!
 
-I'm currently working with Eric Agol on constraining the planetary radius valley but I've previously worked with Mario Jurić on making predictions for NEO follow-up during LSST and with Selma de Mink on gravitational waves and predictions for Galactic sources in the LISA mission.
+I'm currently working on creating self-consistent population synthesis and galactic dynamics simulations to make prediction for the Milky Way and nearby galaxies but I've previously worked with Eric Agol on constraining the planetary radius valley, with Mario Jurić on making predictions for NEO follow-up during LSST and with Selma de Mink on gravitational waves and predictions for Galactic sources in the LISA mission.
 
 I've also contributed to several astrophysics codes. I recently released a python package called [LEGWORK](https://www.github.com/TeamLEGWORK/LEGWORK) with Katie Breivik to make everyone's life easier when working with stellar-origin binaries in LISA and doing the legwork for you. I also use and enjoy helping with the development of the rapid binary population synthesis code [COMPAS](https://www.github.com/TeamCOMPAS/COMPAS).
 
