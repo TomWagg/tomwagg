@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm Tom Wagg, an astrophysics PhD student at the University of Washington. I love all sorts of astrophysics, particularly anything involving binaries and massive stars, and I'm very enthusiastic to share all of the code I use in my research on GitHub!
+I'm Tom Wagg, a Flatiron Research Fellow at the Center for Computation Astrophysics. I love all sorts of astrophysics, particularly anything involving binaries and massive stars, and I'm very enthusiastic to share all of the code I use in my research on GitHub!
 
 I'm currently working on **creating self-consistent population synthesis and galactic dynamics simulations** (with [cogsworth](https://www.github.com/TomWagg/cogsworth)!) to use for better constraining binary stellar evolution with positions and kinematics. I'm broadly interested in massive stars though and have previously worked on asteroseismology, stellar flares and galactic gravitational wave sources (with LISA). In the past I've also explored taken a foray into making predictions for NEO follow-up during LSST and constraining the planetary radius valley.
 
